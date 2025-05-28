@@ -32,7 +32,9 @@ for i in range(len(stack)):
 ```
 
 ## Output
-
+![image](https://github.com/user-attachments/assets/62c60b91-c9c0-4cb1-bb5d-3a37e99c1a10)
 
 ## Result
+Thus the Python program to insert 3 elements into a stack and display the index value of each element stored in the stack has been completed.
+
 
