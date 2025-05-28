@@ -35,3 +35,4 @@ print("\nElement at the rear of the queue is", queue[-1])
 
 
 ## RESULT
+Thus the  Python program to add 4 elements to a queue and print the elements present at the front and rear of the queue was executed successfully.
